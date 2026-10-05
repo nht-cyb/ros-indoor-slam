@@ -4,6 +4,11 @@ This is a modular and extensible ROS-based SLAM (Simultaneous Localization and M
 
 A simulated TurtleBot3 explores an unknown indoor environment in Gazebo, builds a 2D occupancy-grid map with **GMapping** from its 360° LiDAR and odometry, and shows the map live in RViz. The project compares a **basic** explorer (plain obstacle avoidance) against **improved** explorers (spiral / wall-following / frontier-based paths with exit conditions and tuned navigation parameters) across environments of increasing difficulty.
 
+<p align="center">
+  <img src="Results/Test1_TB3_HexaWorld/mapping_demo.gif" alt="TurtleBot3 exploring the hexagon world in Gazebo (left) while GMapping builds the map in RViz (right)" width="720"/>
+  <br/>
+  <em>Sample 1, improved explorer: Gazebo (left) and the GMapping map building up in RViz (right). 66 s of the run shown at 6× speed.</em>
+</p>
 
 The full write-up report (in Vietnamese) is in [`ROS_fin.pdf`](ROS_fin.pdf).
 
