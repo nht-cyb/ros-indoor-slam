@@ -1,12 +1,11 @@
-# ros2-indoor-slam
+# ros-indoor-slam
 
 This is a modular and extensible ROS-based SLAM (Simultaneous Localization and Mapping) system designed to simulate robot navigation, environment mapping, and autonomous exploration.
 
 A simulated TurtleBot3 explores an unknown indoor environment in Gazebo, builds a 2D occupancy-grid map with **GMapping** from its 360° LiDAR and odometry, and shows the map live in RViz. The project compares a **basic** explorer (plain obstacle avoidance) against **improved** explorers (spiral / wall-following / frontier-based paths with exit conditions and tuned navigation parameters) across environments of increasing difficulty.
 
-> **Note on the name:** despite "ros2" in the repository name, this is a **ROS 1 (Noetic) catkin workspace**. It will not build with `colcon` / ROS 2.
 
-The full write-up (in Vietnamese) is in [`ROS_fin.pdf`](ROS_fin.pdf).
+The full write-up report (in Vietnamese) is in [`ROS_fin.pdf`](ROS_fin.pdf).
 
 ---
 
