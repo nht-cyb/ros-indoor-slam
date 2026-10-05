@@ -1,0 +1,1 @@
+/home/ryuzuu/SlamProject/devel/.private/maze/share/maze/cmake/mazeConfig-version.cmake

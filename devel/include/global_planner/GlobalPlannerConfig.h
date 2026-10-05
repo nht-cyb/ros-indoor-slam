@@ -1,0 +1,1 @@
+/home/ryuzuu/SlamProject/devel/.private/global_planner/include/global_planner/GlobalPlannerConfig.h

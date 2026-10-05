@@ -1,0 +1,7 @@
+Symlinking /home/ryuzuu/SlamProject/devel/lib/libmap_server_image_loader.so
+Symlinking /home/ryuzuu/SlamProject/devel/lib/pkgconfig/map_server.pc
+Symlinking /home/ryuzuu/SlamProject/devel/lib/map_server/map_saver
+Symlinking /home/ryuzuu/SlamProject/devel/lib/map_server/map_server
+Symlinking /home/ryuzuu/SlamProject/devel/lib/map_server/rtest
+Symlinking /home/ryuzuu/SlamProject/devel/share/map_server/cmake/map_serverConfig.cmake
+Symlinking /home/ryuzuu/SlamProject/devel/share/map_server/cmake/map_serverConfig-version.cmake

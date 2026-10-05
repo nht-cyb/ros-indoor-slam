@@ -1,0 +1,6 @@
+devel_space: /home/ryuzuu/SlamProject/devel
+install: false
+install_space: /home/ryuzuu/SlamProject/install
+profile: default
+source_space: /home/ryuzuu/SlamProject/src
+workspace: /home/ryuzuu/SlamProject

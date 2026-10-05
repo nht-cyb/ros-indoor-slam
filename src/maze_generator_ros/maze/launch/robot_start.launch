@@ -1,0 +1,4 @@
+<?xml version='1.0'?>
+<launch>
+<node pkg="gazebo_ros" name="spawn_model" type="spawn_model" args="-file $(find create)/model-1_4.sdf -sdf -model create -x 2 -y -2.25 -z 0.1" />
+</launch>

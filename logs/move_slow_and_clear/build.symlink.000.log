@@ -1,0 +1,4 @@
+Symlinking /home/ryuzuu/SlamProject/devel/lib/libmove_slow_and_clear.so
+Symlinking /home/ryuzuu/SlamProject/devel/lib/pkgconfig/move_slow_and_clear.pc
+Symlinking /home/ryuzuu/SlamProject/devel/share/move_slow_and_clear/cmake/move_slow_and_clearConfig-version.cmake
+Symlinking /home/ryuzuu/SlamProject/devel/share/move_slow_and_clear/cmake/move_slow_and_clearConfig.cmake

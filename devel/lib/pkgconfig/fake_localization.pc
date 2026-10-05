@@ -1,0 +1,1 @@
+/home/ryuzuu/SlamProject/devel/.private/fake_localization/lib/pkgconfig/fake_localization.pc

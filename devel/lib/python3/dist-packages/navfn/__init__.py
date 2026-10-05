@@ -1,0 +1,1 @@
+/home/ryuzuu/SlamProject/devel/.private/navfn/lib/python3/dist-packages/navfn/__init__.py

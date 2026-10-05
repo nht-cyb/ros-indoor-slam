@@ -1,0 +1,12 @@
+maze_name: "maze_desc/2016f"
+wall_length: 0.5
+wall_height: 0.3
+wall_thisckness: 0.05
+start_tile:
+  x: 8
+  y: 0
+goal_tile:
+  x1: 0
+  y1: 7
+  x2: 1
+  y2: 8

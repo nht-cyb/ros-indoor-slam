@@ -1,0 +1,8 @@
+prefix=/home/ryuzuu/SlamProject/devel/.private/maze
+
+Name: maze
+Description: Description of maze
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

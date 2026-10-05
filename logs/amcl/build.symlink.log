@@ -1,0 +1,14 @@
+Symlinking /home/ryuzuu/SlamProject/devel/lib/libamcl_pf.so
+Symlinking /home/ryuzuu/SlamProject/devel/lib/libamcl_sensors.so
+Symlinking /home/ryuzuu/SlamProject/devel/lib/libamcl_map.so
+Symlinking /home/ryuzuu/SlamProject/devel/lib/pkgconfig/amcl.pc
+Symlinking /home/ryuzuu/SlamProject/devel/lib/amcl/amcl
+Symlinking /home/ryuzuu/SlamProject/devel/lib/python3/dist-packages/amcl/__init__.py
+Symlinking /home/ryuzuu/SlamProject/devel/lib/python3/dist-packages/amcl/cfg/AMCLConfig.py
+Symlinking /home/ryuzuu/SlamProject/devel/lib/python3/dist-packages/amcl/cfg/__init__.py
+Symlinking /home/ryuzuu/SlamProject/devel/share/amcl/docs/AMCLConfig.wikidoc
+Symlinking /home/ryuzuu/SlamProject/devel/share/amcl/docs/AMCLConfig.dox
+Symlinking /home/ryuzuu/SlamProject/devel/share/amcl/docs/AMCLConfig-usage.dox
+Symlinking /home/ryuzuu/SlamProject/devel/share/amcl/cmake/amclConfig-version.cmake
+Symlinking /home/ryuzuu/SlamProject/devel/share/amcl/cmake/amclConfig.cmake
+Symlinking /home/ryuzuu/SlamProject/devel/include/amcl/AMCLConfig.h

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ryuzuu/SlamProject/devel/.private/ros_autonomous_slam/setup.sh
