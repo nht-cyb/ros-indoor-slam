@@ -1,1 +1,0 @@
-/home/ryuzuu/SlamProject/devel/.private/ros_autonomous_slam/share/roseus/ros/ros_autonomous_slam/msg/PointArray.l

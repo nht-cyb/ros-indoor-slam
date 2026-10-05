@@ -1,1 +1,0 @@
-/home/ryuzuu/SlamProject/devel/.private/navfn/lib/python3/dist-packages/navfn/srv/_SetCostmap.py

@@ -1,1 +1,0 @@
-/home/ryuzuu/SlamProject/devel/.private/navfn/share/gennodejs/ros/navfn/srv/MakeNavPlan.js

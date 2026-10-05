@@ -1,1 +1,0 @@
-/home/ryuzuu/SlamProject/devel/.private/move_base/include/move_base/MoveBaseConfig.h

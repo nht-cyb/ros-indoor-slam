@@ -1,1 +1,0 @@
-/home/ryuzuu/SlamProject/devel/.private/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/Turtlebot3ActionGoal.lisp

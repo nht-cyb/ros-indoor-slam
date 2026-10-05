@@ -1,1 +1,0 @@
-/home/ryuzuu/SlamProject/devel/.private/costmap_2d/share/gennodejs/ros/costmap_2d/msg/VoxelGrid.js

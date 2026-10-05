@@ -1,6 +1,0 @@
-turtlebot3_simulations/turtlebot3_gazebo
-/home/ryuzuu/SlamProject/devel/.private/turtlebot3_gazebo/cmake.lock /home/ryuzuu/SlamProject/devel/./cmake.lock
-/home/ryuzuu/SlamProject/devel/.private/turtlebot3_gazebo/lib/pkgconfig/turtlebot3_gazebo.pc /home/ryuzuu/SlamProject/devel/lib/pkgconfig/turtlebot3_gazebo.pc
-/home/ryuzuu/SlamProject/devel/.private/turtlebot3_gazebo/lib/turtlebot3_gazebo/turtlebot3_drive /home/ryuzuu/SlamProject/devel/lib/turtlebot3_gazebo/turtlebot3_drive
-/home/ryuzuu/SlamProject/devel/.private/turtlebot3_gazebo/share/turtlebot3_gazebo/cmake/turtlebot3_gazeboConfig-version.cmake /home/ryuzuu/SlamProject/devel/share/turtlebot3_gazebo/cmake/turtlebot3_gazeboConfig-version.cmake
-/home/ryuzuu/SlamProject/devel/.private/turtlebot3_gazebo/share/turtlebot3_gazebo/cmake/turtlebot3_gazeboConfig.cmake /home/ryuzuu/SlamProject/devel/share/turtlebot3_gazebo/cmake/turtlebot3_gazeboConfig.cmake

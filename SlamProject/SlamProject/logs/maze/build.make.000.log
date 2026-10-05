@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target generator_maze[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/generator_maze.dir/src/generator_maze.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/ryuzuu/SlamProject/devel/.private/maze/lib/maze/generator_maze[0m
-[100%] Built target generator_maze

@@ -1,2 +1,0 @@
-turtlebot3/turtlebot3
-/home/ryuzuu/SlamProject/devel/.private/turtlebot3/cmake.lock /home/ryuzuu/SlamProject/devel/./cmake.lock

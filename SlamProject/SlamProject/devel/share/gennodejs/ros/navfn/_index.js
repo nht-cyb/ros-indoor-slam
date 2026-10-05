@@ -1,1 +1,0 @@
-/home/ryuzuu/SlamProject/devel/.private/navfn/share/gennodejs/ros/navfn/_index.js

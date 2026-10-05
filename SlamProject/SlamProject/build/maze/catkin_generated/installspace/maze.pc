@@ -1,8 +1,0 @@
-prefix=/home/ryuzuu/SlamProject/install
-
-Name: maze
-Description: Description of maze
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

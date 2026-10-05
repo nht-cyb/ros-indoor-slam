@@ -1,1 +1,0 @@
-/home/ryuzuu/SlamProject/devel/.private/navfn/share/roseus/ros/navfn/manifest.l
